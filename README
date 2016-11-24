@@ -1,0 +1,3 @@
+Light Sensor View
+
+#监听light sensor，根据event画出折线图。
